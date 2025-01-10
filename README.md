@@ -9,51 +9,50 @@
 
 Welcome to my GitHub profile!  
 I'm **Pradyumna Digraskar**, a passionate **AI and Data Science Engineer** with a zeal for solving complex problems using **Machine Learning**, **Deep Learning**, and **Natural Language Processing**.  
-I believe in creating impactful solutions that make a difference.
-
-<hr width="72%" >
-
-## 🌐 Connect with Me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/pradyumna-digraskar) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Pradyumna-Digraskar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/27253908/pradyumna-digraskar) 
+I love creating solutions that are impactful, efficient, and innovative.
 
 ---
 
-# 🏆 **My Achievements**
+## 🌐 Connect with Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/pradyumna-digraskar)  
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Pradyumna-Digraskar)  
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/27253908/pradyumna-digraskar)
+
+---
+
+## 🏆 **My Achievements**
 ### 🥇 Built an **ISL Detection System** that converts Indian Sign Language into text and speech.  
 ### 🤖 Developed a **Real-Time Face Liveness Detection Model** for browser-based authentication.  
 ### 🧠 Conducted **AI research** in pose estimation and sketch-to-image generation.  
 ### 🗂 Contributed to **open-source projects** and built impactful solutions.  
-### 📜 Published articles and tutorials on AI and Machine Learning, sharing knowledge with the community.  
+### 📜 Published AI tutorials and guides to help budding developers.  
+### 💡 Developed a real-time **AI Chatbot** using LLMs for question-answer generation and evaluation.  
 
 ---
 
-# 🎨 **Fun Stuff!**
+## 🌌 **About Me**
 <img align="left" width="200" alt="Programming" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 **Quote of the Day**:  
 *"The only way to do great work is to love what you do." – Steve Jobs*  
 
 - 🚀 **Favorite Emoji**: 🤖  
-- 🎮 **Hobbies**: Coding, Gaming, Reading about AI, and Building Creative Tech Projects  
-- 🎵 **Favorite Music Genre**: Lo-fi for deep coding sessions and Synthwave for brainstorming.  
-- 🌟 Fun Fact: I can debug my code faster with music on than with complete silence!  
+- 🎮 **Hobbies**: Coding, Gaming, AI Research, and Building Creative Tech Projects  
+- 🎵 **Favorite Music Genre**: Lo-fi for coding sessions, Synthwave for brainstorming  
+- 🌟 Fun Fact: I debug better while listening to music than in complete silence!  
+- 🌐 **Current Focus**: Exploring **Augmented Reality (AR)** applications with AI.  
 
 ---
 
-# 🌌 **My Motto**  
-> *“Dream Big. Code Hard. Innovate Always.”*
-
----
-
-# 📈 **GitHub Stats**  
+## 📈 **GitHub Stats**
 ![](https://github-readme-stats.vercel.app/api?username=pradyumnadigraskar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pradyumnadigraskar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pradyumnadigraskar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-# 🌟 **Featured Projects**  
+## 🌟 **Featured Projects**  
 ### 🖐 **[Real-Time ISL Detection](https://github.com/pradyumnadigraskar/isl-detection)**  
 > A real-time application to detect Indian Sign Language and convert it into text and speech using deep learning.  
 
@@ -63,16 +62,20 @@ I believe in creating impactful solutions that make a difference.
 ### 🧑‍💻 **[Face Liveness Detection](https://github.com/pradyumnadigraskar/face-liveness)**  
 > A browser-based solution for UIDAI's authentication platform to detect real-time face liveness with pose validation.  
 
----
-
-# 💡 **Did You Know?**  
-- I’m working on a project that integrates **AI** with **Augmented Reality (AR)** to create immersive experiences.  
-- I regularly participate in hackathons to challenge myself and stay updated with the latest tech trends.  
-- I'm a fan of **LangChain** and have explored innovative ways to integrate it with my projects.  
+### 🧠 **[Generative AI Chatbot](https://github.com/pradyumnadigraskar/ai-chatbot)**  
+> A chatbot using advanced language models to generate and evaluate questions in real-time.
 
 ---
 
-# 🛠 **Tech Stack**
+## 💡 **Fun Facts**
+- I’ve participated in multiple hackathons and won awards for innovative solutions.  
+- I’m exploring ways to combine **AI** with **IoT** for futuristic automation projects.  
+- I actively mentor budding AI enthusiasts and contribute to community projects.  
+- I believe **collaboration is the key** to building great tech.
+
+---
+
+## 🛠 **Tech Stack**
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
@@ -92,12 +95,11 @@ I believe in creating impactful solutions that make a difference.
         🔍 Looking for Opportunities
     </h2>
     <p style="font-size: 18px; color: #2e7d32; text-align: justify; line-height: 1.8; margin-bottom: 20px;">
-        I am actively seeking opportunities in the fields of <strong style="color: #388e3c;">Data Science</strong> and <strong style="color: #388e3c;">Machine Learning</strong>. 
-        If you're interested in collaborating on innovative data projects or have opportunities aligned with my expertise, I would love to connect!
+        I am actively seeking opportunities in the fields of <strong style="color: #388e3c;">Data Science</strong>, <strong style="color: #388e3c;">AI</strong>, and <strong style="color: #388e3c;">Machine Learning</strong>.  
+        If you're interested in collaborating on innovative projects or have opportunities aligned with my expertise, I’d love to connect!
     </p>
     <p style="font-size: 18px; color: #2e7d32; text-align: justify; line-height: 1.8; margin-bottom: 30px;">
-        Feel free to explore my repositories to discover some of my work and contributions. If you have any questions or wish to discuss potential collaborations, 
-        please don't hesitate to reach out via <a href="mailto:pradyumnadigraskar11@gmail.com" style="color: #0288d1; text-decoration: none; font-weight: bold;">email 📧</a>.
+        Feel free to explore my repositories and reach out via <a href="mailto:pradyumnadigraskar11@gmail.com" style="color: #0288d1; text-decoration: none; font-weight: bold;">email 📧</a>.
     </p>
     <p style="font-size: 20px; color: #00796b; text-align: center; font-weight: bold;">
         Thank you for visiting my GitHub profile😊!
