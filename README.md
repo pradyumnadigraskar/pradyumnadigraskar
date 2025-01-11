@@ -39,7 +39,7 @@ I love creating solutions that are impactful, efficient, and innovative.
     <h2>🌌 About Me</h2>
       <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Programming" width="200" style="margin-right: 20px;">
     <p><strong>Quote of the Day:</strong><br>
-    *"The only way to do great work is to love what you do." – Steve Jobs*</p>
+    <strong>"The only way to do great work is to love what you do." – Steve Jobs*</strong>
     <ul>
       <li>🚀 <strong>Favorite Emoji</strong>: 🤖</li>
       <li>🎮 <strong>Hobbies</strong>: Coding, Gaming, AI Research, and Building Creative Tech Projects</li>
