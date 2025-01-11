@@ -47,6 +47,15 @@ I love creating solutions that are impactful, efficient, and innovative.
 
 ---
 
+<h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,r" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,mongodb,c,java,mysql,flask" /><br>
+</div>
+
+---
+
 ## 📈 **GitHub Stats**
 ![](https://github-readme-stats.vercel.app/api?username=pradyumnadigraskar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pradyumnadigraskar&theme=dark&hide_border=false)<br/>
