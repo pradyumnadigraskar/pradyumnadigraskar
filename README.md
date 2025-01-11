@@ -33,17 +33,25 @@ I love creating solutions that are impactful, efficient, and innovative.
 
 ---
 
-## 🌌 **About Me**
-<img align="left" width="200" alt="Programming" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<div style="display: flex; align-items: center;">
+  
+  <div>
+    <h2>🌌 About Me</h2>
+      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Programming" width="200" style="margin-right: 20px;">
+    <p><strong>Quote of the Day:</strong><br>
+    *"The only way to do great work is to love what you do." – Steve Jobs*</p>
+    <ul>
+      <li>🚀 <strong>Favorite Emoji</strong>: 🤖</li>
+      <li>🎮 <strong>Hobbies</strong>: Coding, Gaming, AI Research, and Building Creative Tech Projects</li>
+      <li>🎵 <strong>Favorite Music Genre</strong>: Lo-fi for coding sessions, Synthwave for brainstorming</li>
+      <li>🌟 <strong>Fun Fact</strong>: I debug better while listening to music than in complete silence!</li>
+      <li>🌐 <strong>Current Focus</strong>: Exploring <strong>Augmented Reality (AR)</strong> applications with AI</li>
+    </ul>
+  </div>
+</div>
 
-**Quote of the Day**:  
-*"The only way to do great work is to love what you do." – Steve Jobs*  
 
-- 🚀 **Favorite Emoji**: 🤖  
-- 🎮 **Hobbies**: Coding, Gaming, AI Research, and Building Creative Tech Projects  
-- 🎵 **Favorite Music Genre**: Lo-fi for coding sessions, Synthwave for brainstorming  
-- 🌟 Fun Fact: I debug better while listening to music than in complete silence!  
-- 🌐 **Current Focus**: Exploring **Augmented Reality (AR)** applications with AI.  
+
 
 ---
 
