@@ -81,7 +81,7 @@ I love creating solutions that are impactful, efficient, and innovative.
 ### 🧑‍💻 **[Face Liveness Detection](https://github.com/pradyumnadigraskar/face-liveness)**  
 > A browser-based solution for UIDAI's authentication platform to detect real-time face liveness with pose validation.  
 
-### 🧠 **[Generative AI Chatbot](https://github.com/pradyumnadigraskar/ai-chatbot)**  
+### 🧠 **[Generative AI Chatbot](https://github.com/pradyumnadigraskar/Py-Gen-bot)**  
 > A chatbot using advanced language models to generate and evaluate questions in real-time.
 
 ---
