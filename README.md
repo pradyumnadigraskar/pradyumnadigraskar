@@ -72,7 +72,7 @@ I love creating solutions that are impactful, efficient, and innovative.
 ---
 
 ## 🌟 **Featured Projects**  
-### 🖐 **[Real-Time ISL Detection](https://github.com/pradyumnadigraskar/isl-detection)**  
+### 🖐 **[Real-Time ISL Detection](https://github.com/pradyumnadigraskar/Indian-Hand-Sign-Detection)**  
 > A real-time application to detect Indian Sign Language and convert it into text and speech using deep learning.  
 
 ### 🎨 **[Sketch-to-Color Image Generation](https://github.com/pradyumnadigraskar/sketch-to-color)**  
