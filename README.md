@@ -79,7 +79,7 @@ I love creating solutions that are impactful, efficient, and innovative.
 ### 🎨 **[Sketch-to-Color Image Generation](https://github.com/pradyumnadigraskar/sketch-to-color)**  
 > A deep learning project that generates vibrant colored images from grayscale sketches.  
 
-### 🧑‍💻 **[Face Liveness Detection](https://github.com/pradyumnadigraskar/face-liveness)**  
+### 🧑‍💻 **[GAN Sketch to Face](https://github.com/pradyumnadigraskar/GAN-Sketch-to-Image)**  
 > A browser-based solution for UIDAI's authentication platform to detect real-time face liveness with pose validation.  
 
 ### 🧠 **[Generative AI Chatbot](https://github.com/pradyumnadigraskar/Py-Gen-bot)**  
