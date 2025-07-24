@@ -77,10 +77,10 @@ I love creating solutions that are impactful, efficient, and innovative.
 > A real-time application to detect Indian Sign Language and convert it into text and speech using deep learning.  
 
 ### 🎨 **[News Fetch Bot](https://github.com/pradyumnadigraskar/News_Fetch_bot)**  
-> A deep learning project that generates vibrant colored images from grayscale sketches.  
+> A Bot that can fetch news from all around the word acoording to perticular topic and region as well  
 
 ### 🧑‍💻 **[GAN Sketch to Face](https://github.com/pradyumnadigraskar/GAN-Sketch-to-Image)**  
-> A browser-based solution for UIDAI's authentication platform to detect real-time face liveness with pose validation.  
+> A deep learning project that generates vibrant colored images from grayscale sketches. 
 
 ### 🧠 **[Generative AI Chatbot](https://github.com/pradyumnadigraskar/Py-Gen-bot)**  
 > A chatbot using advanced language models to generate and evaluate questions in real-time.
