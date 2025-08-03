@@ -65,11 +65,10 @@
 ## ⚒️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,flask,django,tensorflow,keras,opencv,numpy,pandas,javascript,html,css,mysql,mongodb,git,github,vscode,linux,docker,figma" />
+  <img src="https://skillicons.dev/icons?i=python,java,flask,django,tensorflow,keras,opencv,numpy,pandas,js,html,css,mysql,mongodb,git,github,vscode,linux,docker,figma" />
 </div>
 
 ---
-
 ## 🚀 Highlighted Projects
 
 ---
