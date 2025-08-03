@@ -1,130 +1,131 @@
+<!-- Visitor Badge -->
+<p align="right">
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pradyumnadigraskar.pradyumnadigraskar" />
+
+</p>
+
+<!-- Intro Banner -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pradyumna+Digraskar!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pradyumna+Digraskar!" />
 </h1>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!-- Social -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/pradyumna-digraskar/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://quora.com/profile/Pradyumna-Digraskar" target="_blank">
+    <img src="https://img.shields.io/badge/Quora-%23B92B27?style=for-the-badge&logo=Quora&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/27253908/pradyumna-digraskar" target="_blank">
+    <img src="https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-# 🌱 **AI and ML Engineer**  
-<img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+## 🧠 About Me
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-Welcome to my GitHub profile!  
-I'm **Pradyumna Digraskar**, a passionate **AI and Data Science Engineer** with a zeal for solving complex problems using **Machine Learning**, **Deep Learning**, and **Natural Language Processing**.  
-I love creating solutions that are impactful, efficient, and innovative.
-
----
-
-## 🌐 Connect with Me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/pradyumna-digraskar)  
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Pradyumna-Digraskar)  
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/27253908/pradyumna-digraskar)
+- 👨‍💻 AI/ML Engineer | LLMs | CV | NLP | Data Science
+- 🧠 Working on Document AI, OCR, Semantic Parsing, and Language-specific AI (Marathi, Hindi, etc.)
+- ⚖️ Building GenAI tools for legal and governance support (RTI, property laws, income tax)
+- 🔍 Experience with Google Vision, Groq LLM, Tesseract, YOLO, and RAG pipelines
+- 💬 I enjoy simplifying complex AI for practical use (forms, chatbots, dashboards)
+- 🚀 Fluent in building end-to-end AI pipelines – OCR → Checkbox Detection → LLM → Excel Output
+- 🧪 Research interests: Sketch-to-image, pose estimation, AR/AI synergy
+- 🎓 I love mentoring and guiding juniors in AI and open-source
+- 📩 Reach me at **pradyumnadigraskar11@gmail.com**
 
 ---
 
-## 🏆 **My Achievements**
-### 🥇 Built an **ISL Detection System** that converts Indian Sign Language into text and speech.  
-### 🤖 Developed a **Real-Time Face Liveness Detection Model** for browser-based authentication.  
-### 🧠 Conducted **AI research** in pose estimation and sketch-to-image generation.  
-### 🗂 Contributed to **open-source projects** and built impactful solutions.  
-### 📜 Published AI tutorials and guides to help budding developers.  
-### 💡 Developed a real-time **AI Chatbot** using LLMs for question-answer generation and evaluation.  
+## 🏆 Key Highlights
+- 🖐 **[ISL Detection System](https://github.com/pradyumnadigraskar/Indian-Hand-Sign-Detection)** – Translates Indian Sign Language to speech & text in real-time.
+- 🔐 Real-Time Face Liveness Detection using browser webcam input.
+- 📄 **AI Form Parser** – Extracts handwritten Marathi data from scanned forms using checkbox detection + OCR + LLM + export to Excel.
+- 🧠 AI Research on **GAN-based Sketch-to-Image Generation** & **Pose Estimation** models.
+- 🤖 Built a multilingual **Generative AI Chatbot** using LLMs for question-answer generation, evaluation & Indian language support.
+- 📊 Built smart dashboards using **Power BI**, **Google Data Studio**, and **Streamlit** for insightful analytics.
+- 🧾 Contributed to projects around legal document parsing & RTI applications using GenAI.
 
 ---
 
-<div style="display: flex; align-items: center;">
-  
-  <div>
-    <h2>🌌 About Me</h2>
-      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Programming" width="200" style="margin-right: 20px;">
-    <p><strong>Quote of the Day:</strong><br>
-    <strong>"The only way to do great work is to love what you do." – Steve Jobs*</strong>
-    <ul>
-      <li>🚀 <strong>Favorite Emoji</strong>: 🤖</li>
-      <li>🎮 <strong>Hobbies</strong>: Coding, Gaming, AI Research, and Building Creative Tech Projects</li>
-      <li>🎵 <strong>Favorite Music Genre</strong>: Lo-fi for coding sessions, Synthwave for brainstorming</li>
-      <li>🌟 <strong>Fun Fact</strong>: I debug better while listening to music than in complete silence!</li>
-      <li>🌐 <strong>Current Focus</strong>: Exploring <strong>Augmented Reality (AR)</strong> applications with AI</li>
-    </ul>
-  </div>
-</div>
+## 📊 GitHub Analytics
 
-
-
-
----
-
-<h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,r" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,mongodb,c,java,mysql,flask" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=pradyumnadigraskar&theme=radical&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pradyumnadigraskar&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradyumnadigraskar&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradyumnadigraskar&theme=github_dark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pradyumnadigraskar&theme=algolia&margin-w=15" />
 </div>
 
 ---
 
-## 📈 **GitHub Stats**
-![](https://github-readme-stats.vercel.app/api?username=pradyumnadigraskar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pradyumnadigraskar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pradyumnadigraskar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## ⚒️ Tech Stack & Tools
 
----
-
-## 🌟 **Featured Projects**  
-### 🖐 **[Real-Time ISL Detection](https://github.com/pradyumnadigraskar/Indian-Hand-Sign-Detection)**  
-> A real-time application to detect Indian Sign Language and convert it into text and speech using deep learning.  
-
-### 🎨 **[News Fetch Bot](https://github.com/pradyumnadigraskar/News_Fetch_bot)**  
-> A Bot that can fetch news from all around the word acoording to perticular topic and region as well  
-
-### 🧑‍💻 **[GAN Sketch to Face](https://github.com/pradyumnadigraskar/GAN-Sketch-to-Image)**  
-> A deep learning project that generates vibrant colored images from grayscale sketches. 
-
-### 🧠 **[Generative AI Chatbot](https://github.com/pradyumnadigraskar/Py-Gen-bot)**  
-> A chatbot using advanced language models to generate and evaluate questions in real-time.
-
----
-
-## 💡 **Fun Facts**
-- I’ve participated in multiple hackathons and won awards for innovative solutions.  
-- I’m exploring ways to combine **AI** with **IoT** for futuristic automation projects.  
-- I actively mentor budding AI enthusiasts and contribute to community projects.  
-- I believe **collaboration is the key** to building great tech.
-
----
-
-## 🛠 **Tech Stack**
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=machine-learning&logoColor=F7931E)&nbsp;
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-05122A?style=flat&logo=machine-learning&logoColor=F7931E)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![PowerBI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=powerbi&logoColor=F2C811)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED)&nbsp;
-![NLP](https://img.shields.io/badge/-NLP-05122A?style=flat&logo=nvidia)&nbsp;
-![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=D00000)&nbsp;
-![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv&logoColor=5C3EE8)&nbsp;
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
-
----
-
-<div style="background: linear-gradient(135deg, #e0f7fa, #f0f4c3); border-radius: 15px; padding: 30px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); max-width: 700px; margin: auto;">
-    <h2 style="color: #00796b; text-align: center; font-size: 28px; margin-bottom: 20px;">
-        🔍 Looking for Opportunities
-    </h2>
-    <p style="font-size: 18px; color: #2e7d32; text-align: justify; line-height: 1.8; margin-bottom: 20px;">
-        I am actively seeking opportunities in the fields of <strong style="color: #388e3c;">Data Science</strong>, <strong style="color: #388e3c;">AI</strong>, and <strong style="color: #388e3c;">Machine Learning</strong>.  
-        If you're interested in collaborating on innovative projects or have opportunities aligned with my expertise, I’d love to connect!
-    </p>
-    <p style="font-size: 18px; color: #2e7d32; text-align: justify; line-height: 1.8; margin-bottom: 30px;">
-        Feel free to explore my repositories and reach out via <a href="mailto:pradyumnadigraskar11@gmail.com" style="color: #0288d1; text-decoration: none; font-weight: bold;">email 📧</a>.
-    </p>
-    <p style="font-size: 20px; color: #00796b; text-align: center; font-weight: bold;">
-        Thank you for visiting my GitHub profile😊!
-    </p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,flask,django,tensorflow,keras,opencv,numpy,pandas,javascript,html,css,mysql,mongodb,git,github,vscode,linux,docker,figma" />
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=pradyumnadigraskar&icon=5&color=9)](https://visitcount.itsvg.in)
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| [🖐 ISL Detection](https://github.com/pradyumnadigraskar/Indian-Hand-Sign-Detection) | Real-time Indian Sign Language to Text/Speech system |
+| [🧑‍💻 Py-Gen-Bot](https://github.com/pradyumnadigraskar/Py-Gen-bot) | A smart chatbot using LLMs for QA and evaluation |
+| [🎨 GAN Sketch-to-Face](https://github.com/pradyumnadigraskar/GAN-Sketch-to-Image) | Convert sketch images to realistic faces |
+| [📰 News Fetch Bot](https://github.com/pradyumnadigraskar/News_Fetch_bot) | Aggregates and presents news based on topic & region |
+
+
+
+---
+
+## 💡 Fun & Personal Facts
+
+- 🎧 I debug faster with Lo-fi beats.
+- 📜 I’ve worked on Indian legal/governmental form understanding using AI.
+- 🇮🇳 I build for India-first solutions (legal forms, regional languages, public services).
+- 🧪 I've built models to detect filled checkboxes and extract handwritten Marathi next to them.
+- 🎯 I love participating and mentoring in hackathons.
+- 🧠 I contribute regularly to open-source and help juniors get started with AI.
+- 🌐 Dreaming of building AI co-pilots that help citizens navigate public systems and laws.
+
+---
+
+## 📬 Let's Collaborate!
+
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" />
+  <h3>Let's build something awesome together!</h3>
+  <p>
+    Connect on <a href="mailto:pradyumnadigraskar11@gmail.com">Email</a> |
+    <a href="https://www.linkedin.com/in/pradyumna-digraskar/">LinkedIn</a> |
+    <a href="https://github.com/pradyumnadigraskar">GitHub</a>
+  </p>
+</div>
+
+---
+
+<!-- Visitor Graph -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<p align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=pradyumnadigraskar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/pradyumnadigraskar?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
+
+  <!-- Stars on main repo -->
+  <img src="https://img.shields.io/github/stars/pradyumnadigraskar/Py-Gen-bot?label=Repo%20Stars&style=flat-square&color=yellow" alt="Repo Stars" />
+
+  <!-- Forks on main repo -->
+  <img src="https://img.shields.io/github/forks/pradyumnadigraskar/Py-Gen-bot?label=Repo%20Forks&style=flat-square&color=orange" alt="Repo Forks" />
+</p>
+
+
